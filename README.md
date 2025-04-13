@@ -2,7 +2,7 @@
 
 This project implements a simple **k-Nearest Neighbors (k-NN)** classifier.
 
-## 📝 Description
+## Description
 
 The program takes 3 command-line arguments:
 `<k> <train-set> <test-set>`
@@ -10,14 +10,14 @@ The program takes 3 command-line arguments:
 - `train-set`: CSV file with training data.
 - `test-set`: CSV file with test data.
 
-## ✅ Features
+## Features
 
 - Applies the k-NN algorithm to classify each vector in the test set.
 - Outputs **accuracy** (correctly classified examples / total).
 - Allows manual input of vectors for real-time classification.
 - Supports any dataset in a similar format to `iris.data` (any number of dimensions and classes).
 
-## 📊 Testing
+## Testing
 
 You can test the program using:
 
